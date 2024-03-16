@@ -148,9 +148,9 @@ print(x_single_prediction)
 
 
 ### New Sample Data Prediction
+<img width="408" alt="image" src="https://github.com/Jeswanth21001768/mnist-classification/assets/94155480/f2204be8-a57b-4e9d-9483-6078d77f16a8">
 
-<img width="407" alt="image" src="https://github.com/Jeswanth21001768/mnist-classification/assets/94155480/a99b4de5-4eec-4c85-9d70-76b4788ce632">
-<img width="216" alt="image" src="https://github.com/Jeswanth21001768/mnist-classification/assets/94155480/42bc1071-51b3-42f3-bf98-bc3551ecfe42">
+<img width="189" alt="image" src="https://github.com/Jeswanth21001768/mnist-classification/assets/94155480/85414f87-01a2-4860-883a-9c5ca164c691">
 
 
 
